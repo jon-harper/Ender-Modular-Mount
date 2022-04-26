@@ -9,6 +9,10 @@ This project is part of a larger effort to standardize the connections on my 3D 
 
 ## Hotend Support
 
+| Mk8 Bowden | V6 with BMG |
+|------------|-------------|
+| [![stock with wiring panel](/Photos/Mk8_Bowden.jpg)](/Photos/Mk8_Bowden.jpg) | [![V6 with BMG extruder](/Photos/V6_direct_drive.jpg)](/Photos/V6_direct_drive.jpg) |
+
 ### V6
 
 Most any V6 hotend can be mounted. The cooling duct has several millimeters of play up or down to accomdate different hotend lengths.
