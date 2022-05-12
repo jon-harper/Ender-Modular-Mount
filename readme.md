@@ -5,7 +5,7 @@ This project is an offshoot of the Clock 3 project for Ender 3 and Ender 5 print
 1. Add a modular attachment point to Ender 3 and Ender 5 hotends.
 2. Allow the use of V6 hotends in both Bowden and direct drive (with either a BMG or Titan extruder)
 
-This project is part of a larger effort to standardize the connections on my 3D printers for high temperature enclosed printing (60C/140F).
+This project is part of a larger effort to standardize the connections on my 3D printers for high temperature enclosed printing (up to 60C/140F).
 
 ## Hotend Support
 
