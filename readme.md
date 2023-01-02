@@ -1,5 +1,10 @@
 # Ender Modular Mount
 
+**Notes**
+
+- This project was a proof-of-concept. It is still here in case it is of interest to others.
+- The panel mount work for stock Enders is significantly evolved. When I have time, I will publish it.
+
 This project is an offshoot of the Clock 3 project for Ender 3 and Ender 5 printers. It serves two purposes:
 
 1. Add a modular attachment point to Ender 3 and Ender 5 hotends.
